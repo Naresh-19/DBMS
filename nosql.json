@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6927c861f919c35fc9e6176f"
+  },
+  "Rollno": 10,
+  "Age": 20,
+  "ContactNo": "9876543210",
+  "EmailId": "newemail10@gmail.com",
+  "Name": "ABC"
+},
+{
+  "_id": {
+    "$oid": "6927c861f919c35fc9e61770"
+  },
+  "Rollno": 11,
+  "Age": 21,
+  "ContactNo": "9123456780",
+  "EmailId": "abc11@gmail.com",
+  "Name": "FEM"
+},
+{
+  "_id": {
+    "$oid": "6927c861f919c35fc9e61771"
+  },
+  "Rollno": 12,
+  "Age": 22,
+  "ContactNo": "9988776655",
+  "EmailId": "abc12@gmail.com",
+  "Name": "XYZ"
+},
+{
+  "_id": {
+    "$oid": "6927c3e4bb2229067c15eb85"
+  },
+  "Rollno": 10,
+  "Age": 20,
+  "ContactNo": {
+    "$numberLong": "9876543210"
+  },
+  "EmailId": "newemail10@gmail.com",
+  "Name": "ABC"
+},
+{
+  "_id": {
+    "$oid": "6927c3e4bb2229067c15eb86"
+  },
+  "Rollno": 11,
+  "Age": 21,
+  "ContactNo": {
+    "$numberLong": "9123456780"
+  },
+  "EmailId": "abc11@gmail.com",
+  "Name": "FEM"
+},
+{
+  "_id": {
+    "$oid": "6927c3e4bb2229067c15eb87"
+  },
+  "Rollno": 12,
+  "Age": 22,
+  "ContactNo": {
+    "$numberLong": "9988776655"
+  },
+  "EmailId": "abc12@gmail.com",
+  "Name": "XYZ"
+}]
